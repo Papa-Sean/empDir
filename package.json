@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/Papa-Sean/empDir/issues"
   },
-  "homepage": "https://github.com/Papa-Sean/empDir#readme"
+  "homepage": "https://github.com/Papa-Sean/empDir#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bootstrap": "^3.4.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-scripts": "^4.0.2"
+  }
 }
